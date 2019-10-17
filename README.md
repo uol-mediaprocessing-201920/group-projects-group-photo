@@ -1,1 +1,1 @@
-# template-project
+# Gruppenfoto optimieren
